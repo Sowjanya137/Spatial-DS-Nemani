@@ -1,3 +1,6 @@
+#Sowjanya Nemani
+#Spatial Data Structures
+#Assignment-1
 import json
 import os,sys
 import pygame
