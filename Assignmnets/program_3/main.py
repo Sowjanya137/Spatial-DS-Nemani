@@ -51,7 +51,7 @@ if __name__=='__main__':
         while running:            
             screen.blit(bg, (0, 0))                               
             for p in points:                                                                                            
-                    point.append(p)                                         
+                    point.append(p) #appending every point to the list point for displaying all the points                                         
             for o in point:                                                                
                     pygame.draw.circle(screen,(0,255,0), o, 1,0)                                                                       
             for event in pygame.event.get():
