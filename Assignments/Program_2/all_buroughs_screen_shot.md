@@ -1,4 +1,4 @@
 ## Program 2A
 ### Sowjanya Nemani
 
-![](https://github.com/Sowjanya137/Spatial-DS-Nemani/blob/master/Assignmnets/all_buroughs_screen_shot.png)
+![](Spatial-DS-Nemani/Assignments/Program_2/all_buroughs_screen_shot.png)
